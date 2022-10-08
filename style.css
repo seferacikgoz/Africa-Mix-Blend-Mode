@@ -126,3 +126,7 @@ nav{
     margin-top: 5px;
     margin-left: 70%;
 }
+
+.btn:hover{
+    background-color: #42220c;
+}
